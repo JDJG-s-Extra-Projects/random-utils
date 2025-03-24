@@ -3,7 +3,9 @@ The following utils will be provided for use and any possible changes and pitche
 1. file util -> does the 3 largest files in each directory.
 2. List all python processes running on a machine this should allow a specific user marker.
 3. Useful backup script for psql that's modifited for use in cronjob on linux.
-4. Other utils will be needed in the future
+4. Restart services -> restart services in your local user systemd folder.
+5. List biggest processes -> Lists programs using the most ram.
+6. Other utils will be needed in the future
 
 
 For list all python proocesses python3.11 or higher is reccemonded and psutil is needed for program 2.
